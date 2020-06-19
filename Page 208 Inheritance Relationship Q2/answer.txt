@@ -1,0 +1,9 @@
+ii: setArea(), setRadius(), getRadius()
+iii: area
+iv:
+	a
+		i: legal
+		ii: illegal
+		iii: legal
+		iv: legal
+		v: legal

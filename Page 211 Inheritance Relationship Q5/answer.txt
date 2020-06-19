@@ -1,0 +1,15 @@
+i.
+	a. width = _w
+	b. length = _l
+
+ii. extends Rectangle
+iii.
+	a. height = 10
+	b. length = 15
+	   width = 10
+
+iv. return width * height * length;
+v.  System.out.println(width);
+	System.out.println(length)
+vi. Square squarebox = new Square(10,10);
+vii. sqaurebox.display();
