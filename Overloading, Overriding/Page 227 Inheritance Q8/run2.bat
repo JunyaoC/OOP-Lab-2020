@@ -1,0 +1,1 @@
+javac TestClass2.java && java TestClass2
