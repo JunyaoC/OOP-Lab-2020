@@ -10,6 +10,8 @@ public class TestApplication{
 
 		System.out.println(testTri.getArea());
 
+		////make array and display
+
 	}
 
 }
